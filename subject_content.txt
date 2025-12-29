@@ -1,0 +1,8 @@
+[MÔN VẬT LÝ 7 - ÔN TẬP]
+1. Tốc độ:
+- Công thức: v = s/t
+- Đơn vị: m/s hoặc km/h
+
+2. Âm thanh:
+- Nguồn âm là các vật dao động.
+- Âm truyền được trong: Rắn, Lỏng, Khí. Không truyền trong Chân không.

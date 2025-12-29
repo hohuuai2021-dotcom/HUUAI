@@ -1,0 +1,5 @@
+{
+  "name": "EduBot Manager",
+  "description": "An AI-powered school assistant chatbot that allows teachers to manage schedules and students to query them.",
+  "requestFramePermissions": []
+}
